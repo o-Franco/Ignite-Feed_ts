@@ -11,7 +11,8 @@ const posts: PostType[] = [
     author: {
       avatarUrl: 'https://github.com/o-Franco.png',
       name: 'Gabriel Franco',
-      role: 'Web Developer'
+      role: 'Dev Front-End'
+
     },
     content: [
       {type: 'paragraph', content: 'Fala galeraa 👋',},
